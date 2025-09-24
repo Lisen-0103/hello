@@ -1,2 +1,2 @@
 # hello
-我在GitHub第一个存储库
+我在GitHub的第一个存储库
